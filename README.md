@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SRangseethammakul
-- 👀 I’m interested in DevOps
+- 👀 I’m interested in DevOps, Software Engineer
 - 🌱 I’m currently learning Docker K8S Node React
 
 <!---
